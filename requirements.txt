@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+extra-streamlit-components
+pandas
+numpy
+matplotlib
+tabulate
+pyyaml
